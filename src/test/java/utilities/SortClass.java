@@ -2,7 +2,6 @@ package utilities;
 
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
